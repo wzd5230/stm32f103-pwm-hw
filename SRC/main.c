@@ -102,7 +102,6 @@ void pwm_timer_init(void)
 }
 
 
-
 /**
   * fun     main
   * param   none
